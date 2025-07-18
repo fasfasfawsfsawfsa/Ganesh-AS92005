@@ -30,3 +30,11 @@ body {
     background-color: #0000FF;
     border-radius: 4px;
 }
+.my-first-box {
+    background-color: lightgreen; /* Gives the box a light blue background */
+    padding: 20px; /* Adds space inside the box */
+    margin: 15px; /* Adds space outside the box, pushing it away from other things */
+    border: 2px solid Darkgreen; /* Puts a blue border around the box */
+    text-align: center; /* Centers the text and image inside */
+}
+
